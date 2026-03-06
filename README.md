@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Welcome to my GitHub! Check out my projects and share your thoughts! 🚀<br>🎓 Computer Science Student at Maynooth University, Ireland 🍀<br>🤖 Passionate about AI & Machine Learning 🧠<br>📧 Email: zohair.moosavi@gmail.com<br>
+🌟 Welcome to my GitHub! Check out my projects and share your thoughts! 🚀<br>🎓 Computer Science Student at Maynooth University, Ireland 🍀<br>🤖 Passionate about AI & Machine Learning 🧠
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohair-moosavi-22161b288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFOCebzT7RAKNvqVKwWvN6A%3D%3D) 
 
