@@ -1,6 +1,38 @@
-# 💫 About Me:
-🌟 Welcome to my GitHub! Check out my projects and share your thoughts! 🚀<br>🎓 Computer Science Student at Maynooth University, Ireland 🍀<br>🤖 Passionate about AI & Machine Learning 🧠
+# 🛰️ Hi, I'm **Zohair Moosavi**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+I’m a developer based in Dublin interested in building useful tools, learning new technologies, and improving my skills through real projects.
+
+
+## What I Work With
+
+- Java
+
+- Python
+
+- LLMs
+
+- APIs and automation
+
+- CSS
+
+- JavaScript
+
+- React
+
+
+## Current Focus
+
+- Improving problem solving skills
+
+- Building practical projects
+
+- Learning new frameworks and tools
+
+
+## Goals
+
+- Write clean and maintainable code
+
+- Contribute to open source
+
+- Keep learning and building
