@@ -1,6 +1,6 @@
-# 🛰️ Hi, I'm **Zohair Moosavi**
+# 🛰️ Hey there!
 
-I’m a developer based in Dublin interested in building useful tools, learning new technologies, and improving my skills through real projects.
+I’m Zohair, a developer based in Dublin interested in building useful tools, learning new technologies, and improving my skills through real projects.
 
 
 ## What I Work With
