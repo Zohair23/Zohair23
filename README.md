@@ -1,38 +1,22 @@
-# 🛰️ Hey there!
+# Hey 👋 — I'm Zohair
 
-I’m Zohair, a developer based in Dublin interested in building useful tools, learning new technologies, and improving my skills through real projects.
+Final-year CS student (BSc Computer Science & Software Engineering) in Dublin, Ireland — graduating Oct 2026. I build AI software that ships.
 
+## What's live
 
-## What I Work With
+- **[knowledge-handoff](https://github.com/Zohair23/knowledge-handoff)** — 5-agent system from the **IBM TechXchange 2026 Dev Day Hackathon**: audits any git repo for bus-factor risk, flags the files a team would break if their sole author left, and auto-drafts plain-English handoff docs.
+- **[ai-engineering-from-scratch](https://github.com/Zohair23/ai-engineering-from-scratch)** — learning AI engineering by building: RAG, agents, and everything between the model and the user.
+- **[Lyfeline](https://github.com/Zohair23/Lyfeline)** — full-stack student app: book management, financial tracking, study organisation.
 
-- Java
+## Stack
 
-- Python
+Python · JavaScript / TypeScript · Java · Flask · React · Node.js · PyTorch · PostgreSQL · MongoDB · LLM APIs (OpenAI, Gemini, IBM watsonx)
 
-- LLMs
+## Currently leveling up
 
-- APIs and automation
+Docker & containers → AWS → Kubernetes → GitHub Actions CI/CD → LangChain/advanced RAG.
 
-- CSS
+## Find me
 
-- JavaScript
-
-- React
-
-
-## Current Focus
-
-- Improving problem solving skills
-
-- Building practical projects
-
-- Learning new frameworks and tools
-
-
-## Goals
-
-- Write clean and maintainable code
-
-- Contribute to open source
-
-- Keep learning and building
+- GitHub: [github.com/Zohair23](https://github.com/Zohair23)
+- Email: [zohair.moosavi@gmail.com](mailto:zohair.moosavi@gmail.com)
